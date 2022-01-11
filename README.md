@@ -19,4 +19,4 @@ Since the Square components no longer maintain state, the Square components rece
 
 Note how in handleClick, we call .slice() to create a copy of the squares array to modify instead of modifying the existing array. We will explain why we create a copy of the squares array in the next section.
 
-#Adding Time travel next in tutorial
+# Adding Time travel next in tutorial
