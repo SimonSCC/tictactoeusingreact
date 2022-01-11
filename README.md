@@ -1,5 +1,5 @@
+### Based on tutorial:
 https://reactjs.org/tutorial/tutorial.html
-Remember push to GIT
 
 npx create-react-app my-app
 
